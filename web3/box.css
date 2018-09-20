@@ -1,0 +1,12 @@
+.box {
+   
+    background-image: url(4.jpg);
+    background-size: cover;
+    filter: grayscale(0.1) blur(1px);
+    border-radius: 50%;
+    border: 1px solid #000;
+    height: 600px;
+    margin: 100px 10px;
+    width: 600px;
+    
+}
